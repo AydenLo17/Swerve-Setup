@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="3423a8e4">
+        <description>Created after removal of "Home" from Swerve Setup Guide</description>
+        <accepts>Home.html</accepts>
+    </rule>
+    <rule id="509fd175">
+        <description>Created after removal of "How to" from Swerve Setup Guide</description>
+        <accepts>how-to.html</accepts>
+    </rule>
+    <rule id="2c0d66fe">
+        <description>Created after removal of "Overview" from AdvantageKitSwerveTemplate Docs</description>
+        <accepts>Overview.html</accepts>
+    </rule>
+    <rule id="41b4568">
+        <description>Created after removal of "Empty XML Topic" from AdvantageKitSwerveTemplate Docs</description>
+        <accepts>Empty-XML-Topic.html</accepts>
+    </rule>
+</rules>

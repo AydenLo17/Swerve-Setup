@@ -3,10 +3,11 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="cssg"
-                 name="Swerve Setup Guide"
-                 start-page="how-to.md">
+                 name="AdvantageKitSwerveTemplate Docs"
+                 start-page="Home.md">
 
     <toc-element topic="Home.md"/>
-    <toc-element topic="how-to.md">
+    <toc-element topic="AdvantageKitSwerveTemplate.md">
+        <toc-element topic="Getting-Started.md"/>
     </toc-element>
 </instance-profile>
