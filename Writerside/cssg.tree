@@ -9,5 +9,6 @@
     <toc-element topic="Home.md"/>
     <toc-element topic="AdvantageKitSwerveTemplate.md">
         <toc-element topic="Getting-Started.md"/>
+        <toc-element topic="Closed-Loop-Control.md"/>
     </toc-element>
 </instance-profile>
